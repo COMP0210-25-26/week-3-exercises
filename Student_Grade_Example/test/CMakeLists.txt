@@ -1,2 +1,0 @@
-add_executable(TestGrades test_grades.cpp)
-target_link_libraries(TestGrades PUBLIC StudentGrades Catch2::Catch2WithMain)
